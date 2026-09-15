@@ -1,0 +1,3 @@
+[functions.fetch-stocks]
+verify_jwt = false
+
